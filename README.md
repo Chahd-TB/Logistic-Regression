@@ -3,7 +3,7 @@
 This project implements Logistic Regression, Regularized Logistic Regression, and Softmax Regression from scratch, and applies them to three real datasets.
 It also includes comparisons with Scikit-Learn’s built-in models.
 
-#📘 Overview
+# 📘 Overview
 
 The goal of this assignment is to understand and implement:
 
@@ -13,8 +13,8 @@ Regularization to prevent overfitting
 
 Softmax regression for multi-class classification
 
-#📊 Datasets Used
-#1️⃣ Student Admission Dataset
+# 📊 Datasets Used
+# 1️⃣ Student Admission Dataset
 
 Predict whether a student is admitted to university based on two exam scores.
 
@@ -26,7 +26,7 @@ Target:
 
 0 → Not admitted
 
-#2️⃣ Microchip QA Dataset
+# 2️⃣ Microchip QA Dataset
 
 Predict whether a microchip passes quality assurance based on test results.
 
@@ -40,7 +40,7 @@ Target:
 
 Includes: Regularization to handle non-linear decision boundaries
 
-#3️⃣ Iris Dataset 🌸
+# 3️⃣ Iris Dataset 🌸
 
 Classify Iris flower species (Setosa, Versicolor, Virginica) using Softmax Regression.
 
@@ -50,7 +50,7 @@ Target: 3 flower classes
 
 Goal: Explore multi-class logistic regression
 
-#🧠 Key Steps Implemented
+# 🧠 Key Steps Implemented
 
 Sigmoid & Softmax functions
 
@@ -66,7 +66,7 @@ Model evaluation metrics
 
 Comparison with Scikit-Learn
 
-#🧰 Tools & Libraries
+# 🧰 Tools & Libraries
 
 Python
 
